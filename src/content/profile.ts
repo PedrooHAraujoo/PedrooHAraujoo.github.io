@@ -137,17 +137,17 @@ export const experience: Job[] = [
   },
   {
     company: "JetSales Brasil",
-    role: { pt: "Customer Experience (Onboarding)", en: "Customer Experience (Onboarding)" },
+    role: { pt: "Customer Experience", en: "Customer Experience" },
     period: { pt: "fev. 2025 – atual", en: "Feb 2025 – present" },
     place: { pt: "Aracaju, SE · híbrido", en: "Aracaju, Brazil · hybrid" },
     bullets: {
       pt: [
-        "Implanto e treino novos clientes numa plataforma SaaS de atendimento e disparo de mensagens, até que operem sem depender do suporte.",
-        "Presto atendimento e suporte online aos clientes no uso da plataforma.",
+        "Promovido de Assistente de Onboarding a Customer Experience em maio de 2026.",
+        "Atendo e dou suporte aos clientes de uma plataforma SaaS de atendimento e disparo de mensagens; antes, como Assistente de Onboarding, implantei e treinei novos clientes até que operassem sem depender do suporte.",
       ],
       en: [
-        "Onboard and train new customers on a SaaS customer service and messaging platform until they can operate without relying on support.",
-        "Provide online customer service and support on how to use the platform.",
+        "Promoted from Onboarding Assistant to Customer Experience in May 2026.",
+        "I serve and support customers of a SaaS customer service and messaging platform; before that, as Onboarding Assistant, I onboarded and trained new customers until they could operate without relying on support.",
       ],
     },
   },
