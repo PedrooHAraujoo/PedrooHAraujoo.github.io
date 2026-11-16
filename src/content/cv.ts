@@ -49,8 +49,8 @@ export const cvBullets: Record<string, Record<Lang, string[]>> = {
     ],
   },
   "JetSales Brasil": {
-    pt: ["Promovido de Assistente de Onboarding a Customer Experience em maio de 2026. Atendo e dou suporte aos clientes de uma plataforma SaaS de atendimento e mensagens; antes, implantei e treinei novos clientes."],
-    en: ["Promoted from Onboarding Assistant to Customer Experience in May 2026. I serve and support customers of a SaaS customer service and messaging platform; before that, I onboarded and trained new customers."],
+    pt: ["Promovido de Assistente de Onboarding em maio de 2026. Acompanho clientes de uma plataforma SaaS da implantação ao fim do ciclo de vida e conduzo calls de consultoria para aumentar a conversão nos processos deles."],
+    en: ["Promoted from Onboarding Assistant in May 2026. I follow customers of a SaaS platform from onboarding to the end of their lifecycle and run consulting calls to increase conversion in their processes."],
   },
   "Cohab Premium Imobiliária": {
     pt: [

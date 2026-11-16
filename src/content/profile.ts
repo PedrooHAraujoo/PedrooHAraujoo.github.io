@@ -40,12 +40,12 @@ export const profile = {
     pt: [
       "Comecei no back-end com Python e Flask, numa API de ranking para as equipes de vendas de uma imobiliária. De lá para cá fui subindo a pilha: hoje entrego o produto inteiro, do modelo de dados no PostgreSQL à interface em React, passando por pagamento, autenticação e publicação.",
       "Atendo clientes pela Araújo Software, a empresa que fundei em 2025. Isso me obrigou a aprender o que não aparece em tutorial: levantar requisito com quem não é técnico, decidir o que fica fora do escopo, publicar e continuar respondendo pelo que está no ar.",
-      "Em paralelo trabalho com Customer Experience numa empresa de SaaS, treinando e implantando clientes. É de lá que vem o meu hábito de escrever software pensando em quem vai usar na segunda-feira de manhã.",
+      "Em paralelo trabalho com Customer Experience numa empresa de SaaS: implanto, treino e acompanho clientes, e faço consultoria para melhorar a conversão nos processos deles. É de lá que vem o meu hábito de escrever software pensando em quem vai usar na segunda-feira de manhã.",
     ],
     en: [
       "I started on the back end with Python and Flask, building a ranking API for a real estate company's sales teams. Since then I have moved up the stack: today I deliver the whole product, from the data model in PostgreSQL to the React interface, including payments, authentication and deployment.",
       "I work with clients through Araújo Software, the company I founded in 2025. That forced me to learn what tutorials skip: gathering requirements from non-technical people, deciding what stays out of scope, shipping, and staying accountable for what is live.",
-      "In parallel I work in Customer Experience at a SaaS company, onboarding and training customers. That is where my habit of writing software for the person who will use it on Monday morning comes from.",
+      "In parallel I work in Customer Experience at a SaaS company: I onboard, train and follow customers, and advise them on improving conversion in their processes. That is where my habit of writing software for the person who will use it on Monday morning comes from.",
     ],
   } as Record<Lang, string[]>,
 };
@@ -143,11 +143,15 @@ export const experience: Job[] = [
     bullets: {
       pt: [
         "Promovido de Assistente de Onboarding a Customer Experience em maio de 2026.",
-        "Atendo e dou suporte aos clientes de uma plataforma SaaS de atendimento e disparo de mensagens; antes, como Assistente de Onboarding, implantei e treinei novos clientes até que operassem sem depender do suporte.",
+        "Acompanho cada cliente da implantação até o fim do ciclo de vida dele numa plataforma SaaS de atendimento e disparo de mensagens.",
+        "Conduzo calls de consultoria para apresentar ferramentas e estratégias que aumentem a conversão dentro dos processos do cliente.",
+        "Continuo implantando e treinando novos clientes e prestando suporte online no uso do produto.",
       ],
       en: [
         "Promoted from Onboarding Assistant to Customer Experience in May 2026.",
-        "I serve and support customers of a SaaS customer service and messaging platform; before that, as Onboarding Assistant, I onboarded and trained new customers until they could operate without relying on support.",
+        "I follow each customer from onboarding through the end of their lifecycle on a SaaS customer service and messaging platform.",
+        "I run consulting calls to present tools and strategies that increase conversion within the customer's own processes.",
+        "I still onboard and train new customers and provide online product support.",
       ],
     },
   },
