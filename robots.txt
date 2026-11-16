@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://pedrooharaujoo.github.io/sitemap.xml
